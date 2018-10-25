@@ -1,0 +1,11 @@
+学习线路图
+
+这个线路图可以让你打下良好的基础，厚积薄发，成为一名优秀的测试人员，具备真正的核心竞争力。
+
+1.学习经典的测试理论和软件工程知识。（长期学习）
+2.学习一门编程语言，按顺序推荐python, java(贪多嚼不烂，如果是非常资深的测试开发已经会了前两种，还可以学习javascript）
+3.掌握黑盒自动化测试技术，推荐学习selenium, appium
+4.掌握接口功能测试技术， 推荐学习python+requests或者java+httpclient
+5.掌握1个或者多个自动测试框架，推荐学习robotframework, python的unittest, java的TestNG, 了解Java的Cucumber
+6.掌握性能测试技术， 推荐学习jmeter, loadrunner
+7.学习与人相处，团队协作，带领团队。
